@@ -1,4 +1,4 @@
-# Silent Scalper (Serverless Data Processing) In Progress
+# Silent Scalper (Serverless Data Processing)
 
 A serverless pipeline to process uploaded files, track metadata, and quarantine failures.
 
@@ -24,6 +24,6 @@ A serverless pipeline to process uploaded files, track metadata, and quarantine 
 - Finalising retry/error logic
 - Working on deployment via Terraform
 
-## Outcome (Planned)
+## Outcome
 
 Efficient, serverless ingestion system with automated error handling and alerting.
