@@ -20,9 +20,11 @@ A serverless pipeline to process uploaded files, track metadata, and quarantine 
 
 ## In Progress
 
+- Adding SNS alerts for quarantined objects
+- Adding Cloudwatch dashboards
+- Adding metadata storing with DybamoDB
 - Adding IAM roles with least privilege
 - Finalising retry/error logic
-- Working on deployment via Terraform
 
 ## Outcome
 
